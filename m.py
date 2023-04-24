@@ -44,7 +44,7 @@ while looping == True:
 
 
     except ValueError or tickets > 3:
-        print("Invalid input, please try again")
+        print("\t\tInvalid input, please try again")
 
 
 
